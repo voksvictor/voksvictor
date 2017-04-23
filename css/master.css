@@ -1,8 +1,63 @@
 @font-face {
-    font-family: 'AvenirLTStd-Black';
-    src: url('../css/font/AvenirLTStd-Black.otf'); 
+    font-family: 'Black';
+    src: url('../css/font/AvenirLTStd-Black.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'BlackOblique';
+    src: url('../css/font/AvenirLTStd-BlackOblique.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Book';
+    src: url('../css/font/AvenirLTStd-Book.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'BookOblique';
+    src: url('../css/font/AvenirLTStd-BookOblique.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Heavy';
+    src: url('../css/font/AvenirLTStd-Heavy.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'HeavyOblique';
+    src: url('../css/font/AvenirLTStd-HeavyOblique.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Light';
+    src: url('../css/font/AvenirLTStd-Light.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'LightOblique';
+    src: url('../css/font/AvenirLTStd-LightOblique.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Medium';
+    src: url('../css/font/AvenirLTStd-Medium.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'MediumOblique';
+    src: url('../css/font/AvenirLTStd-MediumOblique.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Oblique';
+    src: url('../css/font/AvenirLTStd-Oblique.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Roman';
+    src: url('../css/font/AvenirLTStd-Roman.otf') format('otf');
 }
 
 body {
-    font-family: AvenirLTStd-Black;
+    font-family: Medium;
 }
