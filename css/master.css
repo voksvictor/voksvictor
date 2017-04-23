@@ -3,6 +3,6 @@
     src: url('../css/font/AvenirLTStd-Black.otf) format('otf'); 
 }
 
-#body {
+body {
     font: "AvenirLTStd-Black";
 }
