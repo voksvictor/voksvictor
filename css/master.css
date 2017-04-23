@@ -58,6 +58,6 @@
     src: url('../css/font/AvenirLTStd-Roman.otf');
 }
 
-body {
+.jumbotron {
     font-family: Light;
 }
