@@ -30,7 +30,7 @@
 
 @font-face {
     font-family: 'Light';
-    src: url('../css/font/AvenirLTStd-Light.otf');
+    src: url('../css/font/AvenirLTStd-Light.otf') format('otf');
 }
 
 @font-face {
