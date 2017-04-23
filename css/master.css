@@ -56,9 +56,3 @@
 @font-face {
     font-family: 'Roman';
     src: url('../css/font/AvenirLTStd-Roman.otf');
-}
-
-.jumbotron p {
-    font-family: Light !important;
-    color: 3b444f;
-}
