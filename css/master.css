@@ -1,0 +1,8 @@
+@font-face {
+    font-family: AvenirLTStd-Black;
+    src: url('../css/font/AvenirLTStd-Black.otf) format('woff'); 
+}
+
+#body {
+    font-family: AvenirLTStd-Black
+}
